@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Pramoth-N
- I’m currently working on react
+👋 Hi, I’m @Pramoth-N
 
- All of my projects are available at https://github.com/Pramoth-N
+  - I’m currently working on react
+
+  All of my projects are available at https://github.com/Pramoth-N
 
 💬 Ask me about react ,java,oops
 
