@@ -1,4 +1,4 @@
-👋 Hi, I’m @Pramoth-N
+   👋 Hi, I’m @Pramoth-N
 
   - I’m currently working on react
 
@@ -6,7 +6,7 @@
 
   - reach me at pramothsgp@gmail.com
 
-⚡ Best time for programming after 12 A.M
+  ⚡ Best time for programming after 12 A.M
 
 <!---
 Pramoth-N/Pramoth-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
