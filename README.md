@@ -2,11 +2,9 @@
 
   - I’m currently working on react
 
-  All of my projects are available at https://github.com/Pramoth-N
+  - All of my projects are available at https://github.com/Pramoth-N
 
-💬 Ask me about react ,java,oops
-
-📫 How to reach me pramothsgp@gmail.com
+  - reach me at pramothsgp@gmail.com
 
 ⚡ Best time for programming after 12 A.M
 
